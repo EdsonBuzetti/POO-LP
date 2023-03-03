@@ -1,0 +1,22 @@
+1) Quais são os tipos de linguagem de programação?
+   
+	Temos linguagens de baixo nível, como a linguem Assembly que tem sua sintaxe parecida com a linguem binaria de computador. Temos tembém as linguens mais atuais
+	sendo elas lunguagens de alto nível, pois são linguem entendiveis por nós, seres humanos porque se assemelha a nossa escrita.
+
+2) Ao programar um código em linguagem em baixo nível poderíamos usar um compilador? Justifique sua resposta.
+
+	Não, não conseguimos ultilizar compiladores, mas sim montadores, tendo eles um trabalho menor que de um compilador, uma vez que na tradução, por linguagens de baixo
+	nível se asesemelharem a lunguagem de máquina, enfrentam menor trabalho.
+
+3) Um amigo programador conhece muito sobre hardware e gostaria de explorar ainda mais placas e memórias. Qual linguagem de programação 
+você indicaria para ele trabalhar?
+
+	Assembly, linguem de baixo nível.
+
+4) Quem criou o primeiro programa de computador?
+
+	Ada Lovelace
+
+5) Quais são os paradigmas de programação?
+
+	Imperativo ou Procedural, Funcional, Lógico e Orientação a objetos.
